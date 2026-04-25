@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://nspscholarship2026.github.io/</loc></url>
+
+<url>
+<loc>https://nspscholarship2026.github.io/</loc>
+<priority>1.0</priority>
+</url>
+
+<url><loc>https://nspscholarship2026.github.io/apply.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/status.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/login.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/last-date.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/renewal.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/documents.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/eligibility.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/benefits.html</loc></url>
+<url><loc>https://nspscholarship2026.github.io/faq.html</loc></url>
+
 </urlset>
